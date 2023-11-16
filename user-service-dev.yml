@@ -13,4 +13,4 @@ eureka:
 spring:
   data:
     mongodb:
-      uri: mongodb://proyectofinal:proyectofinal@mongodb:27017/proyectofinal?authSource=admin
+      uri: mongodb://proyectofinal:proyectofinal@localhost:27017/proyectofinal?authSource=admin
